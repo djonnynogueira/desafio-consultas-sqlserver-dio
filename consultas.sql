@@ -7,3 +7,9 @@ Tabela(s) Afetada(s):  Filmes, Atores, Generos, ElencoFilme, FilmesGenero
 ===============================================================================
 */
 
+-- 1 - Buscar o nome e ano dos filmes
+SELECT 
+	Nome, 
+	Ano 
+FROM
+	Filmes;
