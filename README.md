@@ -18,4 +18,4 @@
 
 ### Consultas
 
-<a src="https://github.com/djonnynogueira/desafio-consultas-sqlserver-dio/blob/main/consultas.sql" alt="Consultas sql">Consultas</a>
+<a href="https://github.com/djonnynogueira/desafio-consultas-sqlserver-dio/blob/main/consultas.sql" alt="Consultas sql">Consultas</a>
